@@ -1,0 +1,20 @@
+{
+  "name": "TubeBackr",
+  "version": "1.1",
+  "description": "The Chrome AddOn for the TubeDL Server. Not working standalone",
+  "manifest_version": 2,
+  "content_scripts": [{
+    "js": ["tubedl.js"],
+    "matches": ["*://www.youtube.com/*"]
+  }],
+  "permissions": [
+    "*://www.youtube.com/*",
+    "storage",
+    "tabs"
+  ],
+  "options_page": "settings.html",
+  "background": {
+    "persistent":true,
+    "page":"bg.html"
+  }
+}
