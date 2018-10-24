@@ -38,11 +38,11 @@ If you click on the Extension Icon and then "Options" you have to set your Serve
 Before you saved the host you can test the connection with the button on the page. Next to it is the Save Button
 
 
-##### RoadMap
+## RoadMap
 * Progressbar
 * Disable Button on already downloaded Videos
 
-##### Donations
+## Donations
 If you want to Donate something to me you can do this! This Software will stay free and can be used for free with all features!
 
 |Service|Address|
@@ -52,7 +52,7 @@ If you want to Donate something to me you can do this! This Software will stay f
 |ETH|0xfC2d1090C2f61E4da2F554DA16F624A9638Ab1F9|
 |BTC|17inewEz388x6W4ecudGhA2dJTt9Fy9qB7|
 
-##### Contribute
+## Contribute
 You want to contribute and...
 
 ###### ...know how to code?
@@ -62,5 +62,5 @@ Just create a Pull Request with your changes and I'll review!
 Use the software, find bugs and tell us in the Issues tab or maybe you can create a Logo ^^
 
 
-##### Contact
+## Contact
 You can contact me on [Reddit](https://reddit.com/u/dunklesToast) or [Twitter](https://twitter.com/dunklesToast)
